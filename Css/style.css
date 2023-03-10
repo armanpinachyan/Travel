@@ -672,6 +672,7 @@ footer h4 a{
         display: none;
     }
 
+
     .book .inner form{
         width: 90%;
         margin-top: 20px;
@@ -717,6 +718,24 @@ footer h4 a{
 
     #menu-bar{
         display: initial;
+    }
+
+
+    .home .content h1{
+        font-size: 3rem;
+    }
+
+    .home .content p{
+        font-size: 1rem;
+    } 
+    
+    .heading span{
+        background-color: rgba(255, 160, 0, .2);
+        font-size: 2rem;
+        padding: .1rem .3rem;
+        color: var(--orange);
+        font-weight: bold;
+        border-radius: .2rem;
     }
 
     .logo{
